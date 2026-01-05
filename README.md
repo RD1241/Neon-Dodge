@@ -44,7 +44,7 @@ Designed for both **desktop and mobile**, featuring smooth controls, visual effe
 ## 🌐 Play the Game
 
 👉 **Live Demo:**  
-https://RD1241.github.io/neon-dodge/
+https://rd1241.github.io/Neon-Dodge/
 
 ---
 
