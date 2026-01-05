@@ -47,13 +47,6 @@ https://RD1241.github.io/neon-dodge/
 - Web Audio API
 
 ---
-
-## 📸 Preview
-
-_Add more screenshots or a GIF here if you want._
-
----
-
 ## ✨ What I Learned
 
 - Game loops & state management
