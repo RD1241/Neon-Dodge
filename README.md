@@ -1,5 +1,14 @@
 # 🎮 Neon Dodge
 
+<p align="center">
+  <a href="https://rd1241.github.io/Neon-Dodge/">
+    <img src="https://img.shields.io/badge/PLAY%20GAME-Neon%20Dodge-00ffff?style=for-the-badge">
+  </a>
+</p>
+
+---
+
+
 A fast-paced neon-themed arcade dodge game built using **HTML5 Canvas, CSS, and JavaScript**.  
 Designed for both **desktop and mobile**, featuring smooth controls, visual effects, and persistent high scores.
 
